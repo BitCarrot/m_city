@@ -10,4 +10,4 @@ const MatchesBlock = ({match}) => {
       );
 };
 
-export  
+export default MatchesBlock;
